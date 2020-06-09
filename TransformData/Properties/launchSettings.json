@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TransformData": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Simon\\Documents\\Projects\\ActivityCompare\\data\\raw\\Takeout\\Fit\" /shealth \"com.samsung.shealth.tracker.pedometer_day_summary.202006080706.csv\""
+    }
+  }
+}
